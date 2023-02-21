@@ -8,7 +8,7 @@ namespace BaiThucHanh.controller
         {
             return View();
         }
-        public IActionResult About()
+        public IActionResult Create()
         {
             return View();
         }
