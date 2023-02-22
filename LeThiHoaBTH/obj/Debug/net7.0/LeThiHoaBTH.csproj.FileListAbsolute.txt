@@ -1,0 +1,70 @@
+C:\Users\ACER\Desktop\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.RazorAssemblyInfo.cs
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.csproj.AssemblyReference.cache
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.AssemblyInfoInputs.cache
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.AssemblyInfo.cs
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.RazorAssemblyInfo.cache
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.RazorAssemblyInfo.cs
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\appsettings.json
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.staticwebassets.runtime.json
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.exe
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.deps.json
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.runtimeconfig.json
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.dll
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.pdb
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets\msbuild.LeThiHoaBTH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets\msbuild.build.LeThiHoaBTH.props
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LeThiHoaBTH.props
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LeThiHoaBTH.props
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\scopedcss\bundle\LeThiHoaBTH.styles.css
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\scopedcss\projectbundle\LeThiHoaBTH.bundle.scp.css
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.dll
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\refint\LeThiHoaBTH.dll
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.pdb
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.genruntimeconfig.cache
+C:\Users\LAPTOPSN\Desktop\Thư mục mới\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\ref\LeThiHoaBTH.dll
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\appsettings.json
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.staticwebassets.runtime.json
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.exe
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.deps.json
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.runtimeconfig.json
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.dll
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\bin\Debug\net7.0\LeThiHoaBTH.pdb
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.AssemblyInfo.cs
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.RazorAssemblyInfo.cache
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.RazorAssemblyInfo.cs
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets\msbuild.LeThiHoaBTH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets\msbuild.build.LeThiHoaBTH.props
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LeThiHoaBTH.props
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LeThiHoaBTH.props
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\scopedcss\bundle\LeThiHoaBTH.styles.css
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\scopedcss\projectbundle\LeThiHoaBTH.bundle.scp.css
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.dll
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\refint\LeThiHoaBTH.dll
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.pdb
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\LeThiHoaBTH.genruntimeconfig.cache
+C:\Users\ACER\Downloads\BTH\BTH\LeThiHoaBTH\LeThiHoaBTH\obj\Debug\net7.0\ref\LeThiHoaBTH.dll

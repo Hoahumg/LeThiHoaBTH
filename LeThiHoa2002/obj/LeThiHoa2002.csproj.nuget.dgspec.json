@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\BTH\\LeThiHoa2002\\LeThiHoa2002.csproj": {}
+    "C:\\Users\\ACER\\Downloads\\BTH\\BTH\\LeThiHoaBTH\\LeThiHoa2002\\LeThiHoa2002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\BTH\\LeThiHoa2002\\LeThiHoa2002.csproj": {
+    "C:\\Users\\ACER\\Downloads\\BTH\\BTH\\LeThiHoaBTH\\LeThiHoa2002\\LeThiHoa2002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\BTH\\LeThiHoa2002\\LeThiHoa2002.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Downloads\\BTH\\BTH\\LeThiHoaBTH\\LeThiHoa2002\\LeThiHoa2002.csproj",
         "projectName": "LeThiHoa2002",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\BTH\\LeThiHoa2002\\LeThiHoa2002.csproj",
+        "projectPath": "C:\\Users\\ACER\\Downloads\\BTH\\BTH\\LeThiHoaBTH\\LeThiHoa2002\\LeThiHoa2002.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\BTH\\LeThiHoa2002\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Downloads\\BTH\\BTH\\LeThiHoaBTH\\LeThiHoa2002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

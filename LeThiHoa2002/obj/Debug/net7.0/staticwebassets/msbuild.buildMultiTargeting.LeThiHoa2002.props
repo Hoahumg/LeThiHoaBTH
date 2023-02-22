@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LeThiHoa2002.props" />
+</Project>

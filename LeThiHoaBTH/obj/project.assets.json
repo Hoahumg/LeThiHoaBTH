@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\BTH\\LeThiHoaBTH\\LeThiHoaBTH.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Downloads\\BTH\\BTH\\LeThiHoaBTH\\LeThiHoaBTH\\LeThiHoaBTH.csproj",
       "projectName": "LeThiHoaBTH",
-      "projectPath": "C:\\Users\\ACER\\Desktop\\BTH\\LeThiHoaBTH\\LeThiHoaBTH.csproj",
+      "projectPath": "C:\\Users\\ACER\\Downloads\\BTH\\BTH\\LeThiHoaBTH\\LeThiHoaBTH\\LeThiHoaBTH.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Desktop\\BTH\\LeThiHoaBTH\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Downloads\\BTH\\BTH\\LeThiHoaBTH\\LeThiHoaBTH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

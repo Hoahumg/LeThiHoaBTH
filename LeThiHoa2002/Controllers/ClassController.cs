@@ -1,16 +1,16 @@
-using Microsoft.Aspnetcore.Mvc;
+ using Microsoft.AspNetCore.Mvc;
 
-namespace BaiThucHanh.controller
-{
-    public class ClassController : controller
+namespace LeThiHoa2002.Controllers;
+
+    public class ClassController : Controller
+    
     {
-        public IActionResult Index ()
+        public IActionResult Index()
         {
             return View();
         }
-        public IActionResult Create()
+        public IActionResult About()
         {
             return View();
         }
     }
-}
