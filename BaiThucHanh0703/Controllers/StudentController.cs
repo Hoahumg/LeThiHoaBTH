@@ -29,12 +29,12 @@ namespace BaiThucHanh0703.Controllers
             ViewBag.Tinhtong ="Tong cac chu so cua so "+Number +"=" +tong;
             return View();
         }
-         public IActionResult Giaiptb2()
+         public IActionResult Gptbac2()
         {
             return View();
         }
         [HttpPost]
-         public IActionResult Giaiptb2(string hesoA, string hesoB, string hesoC)
+         public IActionResult Gptbac2(string hesoA, string hesoB, string hesoC)
         {
             //khai bao bien
             double delta, x1, x2, a =0, b=0, c=0;
