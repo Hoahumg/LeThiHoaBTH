@@ -13,7 +13,7 @@ namespace BaiThucHanh0703.Controllers
         {
             string strReturn = "Hello " + FullName;
             //gui du lieu ve view
-            ViewBag.thongbao = strReturn;
+            ViewBag.hoa = strReturn;
             return View();
             //tra ve danh sach cac sinh vien trong Database
         }
